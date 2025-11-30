@@ -46,7 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\BLL_CoVanHocTap.cs" />
     <Compile Include="BLL\BLL_TaiKhoan.cs" />
+    <Compile Include="DAL\DAL_CoVanHocTap.cs" />
     <Compile Include="DAL\DAL_KetNoi.cs" />
     <Compile Include="DAL\DAL_TaiKhoan.cs" />
     <Compile Include="GUI\BangDiemSinhVien.cs">
