@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SANG\\Cplusplus\\Dayone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\bangdiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\bangdiemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|c:\\sang\\cplusplus\\dayone\\gui\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\CoVanHocTap.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\CoVanHocTap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\DAL\\DAL_TaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:DAL\\DAL_TaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\HeThong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:HeThong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\DangNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\DAL\\DAL_KetNoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:DAL\\DAL_KetNoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyTaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\QuanLyTaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\BLL\\BLL_TaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:BLL\\BLL_TaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\thongtinchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\thongtinchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\quanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\quanlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\quanlykhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\gui\\covanhoctap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:gui\\covanhoctap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\SinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\SinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyDiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\QuanLyDiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\DoiMatKhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\DoiMatKhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\ThongTinChiTiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\ThongTinChiTiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\SinhVien.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\SinhVien.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\CoVanHocTap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyLop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\QuanLyLop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyKhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\QuanLyKhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyTaiKhoan.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\QuanLyTaiKhoan.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7B62CEAC-E1D7-449B-B4B2-DCBABB102CFF}|Dayone.csproj|solutionrelative:GUI\\DangNhap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL_TaiKhoan.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\DAL\\DAL_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_TaiKhoan.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\DAL\\DAL_TaiKhoan.cs",
+              "RelativeToolTip": "DAL\\DAL_TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:56:42.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeThong.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\HeThong.cs",
+              "RelativeDocumentMoniker": "HeThong.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\HeThong.cs",
+              "RelativeToolTip": "HeThong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:28:26.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.Designer.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.Designer.cs",
+              "RelativeToolTip": "GUI\\DangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:39:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.cs",
+              "RelativeToolTip": "GUI\\DangNhap.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:39:35.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BangDiemSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\BangDiemSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\BangDiemSinhVien.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\BangDiemSinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\BangDiemSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T03:14:23.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.cs [Design]",
+              "RelativeToolTip": "GUI\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:39:29.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoVanHocTap.resx",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.resx",
+              "RelativeDocumentMoniker": "GUI\\CoVanHocTap.resx",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.resx",
+              "RelativeToolTip": "GUI\\CoVanHocTap.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-21T06:21:43.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoVanHocTap.Designer.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\CoVanHocTap.Designer.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.Designer.cs",
+              "RelativeToolTip": "GUI\\CoVanHocTap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:21:44.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAL_KetNoi.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\DAL\\DAL_KetNoi.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_KetNoi.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\DAL\\DAL_KetNoi.cs",
+              "RelativeToolTip": "DAL\\DAL_KetNoi.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:58:06.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyTaiKhoan.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyTaiKhoan.cs",
+              "RelativeToolTip": "GUI\\QuanLyTaiKhoan.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwG4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:22:45.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BLL_TaiKhoan.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\BLL\\BLL_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_TaiKhoan.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\BLL\\BLL_TaiKhoan.cs",
+              "RelativeToolTip": "BLL\\BLL_TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:17:34.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuanLyTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyTaiKhoan.cs [Design]",
+              "RelativeToolTip": "GUI\\QuanLyTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T01:21:31.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\SinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\SinhVien.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\SinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\SinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:08:28.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "GUI\\DoiMatKhau.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DoiMatKhau.cs [Design]",
+              "RelativeToolTip": "GUI\\DoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:31:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThongTinChiTiet.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\ThongTinChiTiet.cs",
+              "RelativeDocumentMoniker": "GUI\\ThongTinChiTiet.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\ThongTinChiTiet.cs [Design]",
+              "RelativeToolTip": "GUI\\ThongTinChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T03:24:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuanLyMonHoc.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyMonHoc.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyMonHoc.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyMonHoc.cs [Design]",
+              "RelativeToolTip": "GUI\\QuanLyMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:12:41.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuanLyLop.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyLop.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyLop.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyLop.cs [Design]",
+              "RelativeToolTip": "GUI\\QuanLyLop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:47:57.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuanLyKhoa.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyKhoa.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyKhoa.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyKhoa.cs [Design]",
+              "RelativeToolTip": "GUI\\QuanLyKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:15:27.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuanLyDiem.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyDiem.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyDiem.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyDiem.cs [Design]",
+              "RelativeToolTip": "GUI\\QuanLyDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:37:53.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoVanHocTap.cs [Design]",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.cs",
+              "RelativeDocumentMoniker": "GUI\\CoVanHocTap.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.cs [Design]",
+              "RelativeToolTip": "GUI\\CoVanHocTap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:25:36.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\SinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\SinhVien.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\SinhVien.cs",
+              "RelativeToolTip": "GUI\\SinhVien.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:51:27.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuanLyDiem.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyDiem.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyDiem.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyDiem.cs",
+              "RelativeToolTip": "GUI\\QuanLyDiem.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:48:15.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DoiMatKhau.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "GUI\\DoiMatKhau.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DoiMatKhau.cs",
+              "RelativeToolTip": "GUI\\DoiMatKhau.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:47:54.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThongTinChiTiet.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\ThongTinChiTiet.cs",
+              "RelativeDocumentMoniker": "GUI\\ThongTinChiTiet.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\ThongTinChiTiet.cs",
+              "RelativeToolTip": "GUI\\ThongTinChiTiet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T03:47:53.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SinhVien.Designer.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\SinhVien.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\SinhVien.Designer.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\SinhVien.Designer.cs",
+              "RelativeToolTip": "GUI\\SinhVien.Designer.cs",
+              "ViewState": "AgIAAF4CAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:06:30.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CoVanHocTap.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.cs",
+              "RelativeDocumentMoniker": "GUI\\CoVanHocTap.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\CoVanHocTap.cs",
+              "RelativeToolTip": "GUI\\CoVanHocTap.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:28:50.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuanLyLop.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyLop.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyLop.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyLop.cs",
+              "RelativeToolTip": "GUI\\QuanLyLop.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:57:23.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuanLyKhoa.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyKhoa.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyKhoa.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyKhoa.cs",
+              "RelativeToolTip": "GUI\\QuanLyKhoa.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:30:55.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QuanLyTaiKhoan.Designer.cs",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\QuanLyTaiKhoan.Designer.cs",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\QuanLyTaiKhoan.Designer.cs",
+              "RelativeToolTip": "GUI\\QuanLyTaiKhoan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:29:06.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DangNhap.resx",
+              "DocumentMoniker": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.resx",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.resx",
+              "ToolTip": "C:\\SANG\\Cplusplus\\Dayone\\GUI\\DangNhap.resx",
+              "RelativeToolTip": "GUI\\DangNhap.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-03T14:39:43.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
